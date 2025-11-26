@@ -34,3 +34,7 @@ Writes new data to temp.txt
 Replaces old file using rename()
 
 This resembles how real banking software updates records safely.
+
+output
+![output](https://github.com/user-attachments/assets/3bcfda19-f00a-455d-8702-243f254356d5)
+
