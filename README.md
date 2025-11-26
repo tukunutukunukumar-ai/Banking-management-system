@@ -38,3 +38,9 @@ This resembles how real banking software updates records safely.
 output
 ![output](https://github.com/user-attachments/assets/3bcfda19-f00a-455d-8702-243f254356d5)
 
+<img width="673" height="447" alt="Screenshot 2025-11-26 111318" src="https://github.com/user-attachments/assets/c1784e2d-6d4d-49d0-a322-5804b7a3083e" />
+
+
+
+
+
